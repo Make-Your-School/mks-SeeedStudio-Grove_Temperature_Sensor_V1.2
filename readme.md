@@ -1,4 +1,3 @@
-
 ---
 title: "Temperatursensor"
 date: "2018-08-28T23:44:26.000Z"
